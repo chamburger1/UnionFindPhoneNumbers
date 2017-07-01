@@ -5,7 +5,7 @@ CFLAGS = -c -Wall
 # Edit the following SOURCES variable to include all of the .cpp files to compile
 SOURCES = main.cpp cohort.cpp disjsets.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
-EXECUTABLE_NAME = assignment4
+EXECUTABLE_NAME = UnionFind
 
 all: $(EXECUTABLE_NAME)
 
