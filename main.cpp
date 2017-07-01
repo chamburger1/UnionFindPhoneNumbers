@@ -11,10 +11,6 @@ Purpose: To practice using union find data structure
 
 Compile: Navigate to the program directory and run the make command to create an executable file.
 
-Executable name: assignment4
-
-To run: copy command inside the brackets [./assignment4 name_of_text_file_argument.csv]
-
 *****************************************************************************************************************/
 
 #include <unordered_map>
